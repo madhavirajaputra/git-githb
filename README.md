@@ -1,1 +1,1 @@
-# git-githb
+# git-github
